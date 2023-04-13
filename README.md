@@ -1,7 +1,4 @@
 ### PID Fan project by Klei and Grant
-![DB63DE66-ED4C-41AF-A20D-F33E80ED3A5F](https://user-images.githubusercontent.com/112961430/224341052-c560f472-c529-4494-a47d-4f968f58772f.jpeg)
-
-
 https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4
 
 
