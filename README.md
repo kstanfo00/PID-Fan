@@ -18,24 +18,9 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 [Onshape Document](https://cvilleschools.onshape.com/documents/47e42486aa1f04385733a015/w/cf439275c7c100674ca82dee/e/2871b8441496d47856568721?renderMode=0&uiState=6409efdaf6606948eb77c350)
 
 ![3234](https://user-images.githubusercontent.com/112961430/222746515-05ee210f-e042-45a0-9256-c03e15a3c6b3.PNG)<figcaption>top view of airplane holder. The servo pinches the airplane with another 3d print to hold it in place. </figcaption>
-![657887](https://user-images.githubusercontent.com/112961430/222463198-fb8b333b-57bc-4cdf-a789-d397bb074a45.PNG)<figcaption>Top view of bottom box. Inside, there is a arduino, a battery pack, and a switch to turn it on and off. </figcaption>
-![876976](https://user-images.githubusercontent.com/112961430/222463201-f148bd1c-36ce-49c3-8d6c-6265588da07b.PNG)<figcaption> Bottom View of assembly. </figcaption>
-![1232132131231245435t4355rt](https://user-images.githubusercontent.com/112961430/222463204-1b2e2286-ba9e-44f2-b01a-da15168b5c7c.PNG)<figcaption> Side View of assembly. </figcaption>
-![68799](https://user-images.githubusercontent.com/112961430/222463205-62a55634-0c3e-42bd-a480-79c61538a5ad.PNG)<figcaption> Bottom View of box. Battery pack is facing down to make it easy to switch out batteries. Holes are there to screw in battery pack and arduino. </figcaption>
-![43432t](https://user-images.githubusercontent.com/112961430/222463206-11517aca-bd37-45bf-a0e9-e25133470c9a.PNG)<figcaption> zoomed in view of bottom box. </figcaption>
-![2342345](https://user-images.githubusercontent.com/112961430/222463209-a2ff7266-5d67-4487-8ef0-0efa0e2df4bb.PNG)<figcaption> side view of gear box.</figcaption>
-![5467y65787](https://user-images.githubusercontent.com/112961430/222463210-8f6b1764-72b2-4b78-ad56-8fe2889d4983.PNG)<figcaption> isometric view of arm </figcaption>
-![547](https://user-images.githubusercontent.com/112961430/223136519-94e0dfbc-802c-46da-b555-66ef68711a05.PNG)<figcaption> side view of arm. </figcaption>
-![4576](https://user-images.githubusercontent.com/112961430/223141934-f431f907-46a8-4320-82ae-70691d821756.PNG)<figcaption> inside view of gearbox. </figcaption>
-![576u](https://user-images.githubusercontent.com/112961430/223141935-5290896c-7c5b-40ea-bfeb-79299d71923e.PNG)<figcaption> top view of gearbox. </figcaption>
 
 
 ### Pictures/Videos
-![42BAD772-32FD-41C6-A917-4AA35D64EBAF](https://user-images.githubusercontent.com/112961430/224341026-630ad833-c4c9-413c-bbee-7db91a99aa38.jpeg)<figcaption>Side view of the Robot</figcaption>
-![8F40AB9D-BC8D-4E75-8142-6443A6286FED](https://user-images.githubusercontent.com/112961430/224340980-d9e7a9f8-decb-4365-b0de-2cfb6bbd580b.jpeg)<figcaption>Inside view of the gearbox</figcaption>
-![AB0DFAAB-8E44-458C-834C-823208CFDD24](https://user-images.githubusercontent.com/112961430/224340988-ff807781-a5f4-47a0-a124-e57955d9ac6a.jpeg)<figcaption>Another side view of the robot arm</figcaption>
-![43679D8F-7B5D-4E61-A660-263C12F43E21](https://user-images.githubusercontent.com/112961430/224340997-94a89b7b-ba46-43f6-ac6c-3470831e6f78.jpeg)<figcaption>View of the claw at the top of the robot inspired by Jakob Weder</figcaption>
-![DB63DE66-ED4C-41AF-A20D-F33E80ED3A5F](https://user-images.githubusercontent.com/112961430/224341052-c560f472-c529-4494-a47d-4f968f58772f.jpeg)<figcaption>Standard view from the edge with the arm up</figcaption>
 ![DF3CA542-0020-49FE-8FC3-2B6618059901](https://user-images.githubusercontent.com/112961430/224340969-6402c6ef-62de-4167-a9b4-bb5990ffc865.jpeg)<figcaption>Inside view of all of the perfectly neat wiring</figcaption>
 
 https://user-images.githubusercontent.com/112961430/224340955-807e34f1-fa5b-4146-97f2-b742e5cb3454.MOV
