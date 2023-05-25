@@ -15,11 +15,11 @@ https://docs.google.com/document/d/1Y_SMDsQwYU3oLXD34Tc_6X-V50yahsYf0Q7-Y88PeXg/
 [Onshape Document](https://cvilleschools.onshape.com/documents/092e602ab51989e7e18e86b6/w/c6d02d2cdaf8048d25fb16c3/e/22746867da17f6038a13b326?renderMode=0&uiState=643e9ce2e89fcc7e947cc6ef)
 
 ### Pictures/Videos
-https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4<figcaption>Planning Prototype</figcaption>
+<figcaption>Planning Prototype</figcaption>https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4
 
-![32154235](https://github.com/kstanfo00/PID-Fan/assets/112961430/563bc7ef-f0c9-4ca3-a72f-964d4cf1aa75)<figcaption> top view of assembly. </figcaption>
+<figcaption> top view of assembly. </figcaption>![32154235](https://github.com/kstanfo00/PID-Fan/assets/112961430/563bc7ef-f0c9-4ca3-a72f-964d4cf1aa75)
 
-![24362456](https://github.com/kstanfo00/PID-Fan/assets/112961430/0649dd9b-4c4a-4eec-ba7b-74a3451525b3)
+![24362456](https://github.com/kstanfo00/PID-Fan/assets/112961430/0649dd9b-4c4a-4eec-ba7b-74a3451525b3) top view of assembly. </figcaption>
 ![354534543](https://github.com/kstanfo00/PID-Fan/assets/112961430/cd2a930f-eb26-47d0-a640-378412e13580)
 ![35426](https://github.com/kstanfo00/PID-Fan/assets/112961430/35121c26-38b7-4ee5-aa1a-f88e48873b71)
 ![54656756](https://github.com/kstanfo00/PID-Fan/assets/112961430/494c07de-cd69-4354-a8e5-6118eb40165c)
