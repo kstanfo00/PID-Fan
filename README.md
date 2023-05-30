@@ -54,4 +54,4 @@ https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/
 
 ### Reflections
 Grant:
-Klei: This project revealed how much good planning affects the project. If I could redo this project, I would plan out the design for a couple more days, just to give clarification. During this project, I learned how to make my time count during class, and this project was a result of that. My favorite thing in this project, was designing the box around the fan, because it gave us a visual to go off of. 
+Klei: This project revealed how much good planning affects the project. If I could redo this project, I would plan out the design for a couple more days, just to give clarification.During this project, I learned how to make my time count during class, and this project was a result of that. 
