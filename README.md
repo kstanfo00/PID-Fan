@@ -43,7 +43,7 @@ https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/
 
 ### Good Stuff:
 - The design turned out cleaner than we thought
-- We didn't waste materials (Reused things in lab)
+- We used lab materials to save time
 - 
 
 ### Bad Stuff:
@@ -54,4 +54,4 @@ https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/
 
 ### Reflections
 Grant:
-Klei: This project revealed how much good planning affects the project. If I could redo this project, I would plan out the design for a couple more days, just to give clarification.During this project, I learned how to make my time count during class, and this project was a result of that. 
+Klei: This project revealed how much good planning affects the project. If I could redo this project, I would plan out the design for a couple more days, just to give clarification. During this project, I learned how to make my time count during class, and this project was a result of that. The best way to save time on this project, is to use materials that are already made. In our case, we found a fan and 3D printed brackets to save time. 
