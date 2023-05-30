@@ -39,16 +39,19 @@ https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/
 
 ### Post Project Thoughts
 
+
+
 ### Good Stuff:
-- Clean Design 
-- Good Use of Materials 
+- The design turned out cleaner than we thought
+- We didn't waste materials (Reused things in lab)
+- 
 
 ### Bad Stuff:
-- LCD Problems 
-- 
+- Our LCD had problems starting up
+- The wiring was subpar
+- We had to re-lazer cut because we didn't account for height of photointerrupter
 
 
 ### Reflections
 Grant:
-Klei: I learned a lot from this project. 
-Firstly, I learned how to have better time management when in class. 
+Klei: This project revealed how much good planning affects the project. If I could redo this project, I would plan out the design for a couple more days, just to give clarification. During this project, I learned how to make my time count during class, and this project was a result of that. My favorite thing in this project, was designing the box around the fan, because it gave us a visual to go off of. 
