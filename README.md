@@ -44,9 +44,11 @@ https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/
 - Good Use of Materials 
 
 ### Bad Stuff:
--LCD Problems 
+- LCD Problems 
+- 
 
 
 ### Reflections
 Grant:
-Klei: I learned a lot from this project. Firstly, I learned how to have better time management when in class. 
+Klei: I learned a lot from this project. 
+Firstly, I learned how to have better time management when in class. 
