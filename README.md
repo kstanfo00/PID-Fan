@@ -9,7 +9,7 @@
 [Wiring Diagram](https://tinyurl.com/ym2uasvt)
 
 ### Code 
-https://github.com/ggastin30/CPython/blob/master/Engineering%203%20Code/fanPID.py
+[Code Repository](https://github.com/ggastin30/CPython/blob/master/Engineering%203%20Code/fanPID.py)
 
 ![e565465464667](https://github.com/kstanfo00/PID-Fan/assets/112961430/a57b6089-07ee-427d-adf7-bd7af59f61f6)
 
