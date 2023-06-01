@@ -1,12 +1,12 @@
 ### PID Fan project by Klei and Grant
 
 ### Planning
-https://docs.google.com/document/d/1oYSg2cFu_qaoOM3yz8rkRRCRVUBYdgV2tjKGM4pbZ4A/edit?usp=sharing
+[Planning Document](https://docs.google.com/document/d/1oYSg2cFu_qaoOM3yz8rkRRCRVUBYdgV2tjKGM4pbZ4A/edit?usp=sharing)
 ### Materials
-https://docs.google.com/document/d/1Y_SMDsQwYU3oLXD34Tc_6X-V50yahsYf0Q7-Y88PeXg/edit
+[Materials Document](https://docs.google.com/document/d/1Y_SMDsQwYU3oLXD34Tc_6X-V50yahsYf0Q7-Y88PeXg/edit)
 
 ### Wiring 
-https://tinyurl.com/ym2uasvt
+[Wiring Diagram](https://tinyurl.com/ym2uasvt)
 
 ### Code 
 https://github.com/ggastin30/CPython/blob/master/Engineering%203%20Code/fanPID.py
