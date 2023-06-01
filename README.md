@@ -9,6 +9,8 @@ https://docs.google.com/document/d/1Y_SMDsQwYU3oLXD34Tc_6X-V50yahsYf0Q7-Y88PeXg/
 https://tinyurl.com/ym2uasvt
 
 ### Code 
+https://github.com/ggastin30/CPython/blob/master/Engineering%203%20Code/fanPID.py
+![e565465464667](https://github.com/kstanfo00/PID-Fan/assets/112961430/a57b6089-07ee-427d-adf7-bd7af59f61f6)
 
 
 ### CAD
@@ -38,7 +40,7 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
 
 ### Post Project Thoughts
-
+This project was a pain on the coding side. We spent 80% of the prok
 
 
 ### Good Stuff:
