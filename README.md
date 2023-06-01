@@ -44,14 +44,16 @@ https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/
 ### Good Stuff:
 - The design turned out cleaner than we thought
 - We used lab materials to save time
-- 
+- It doesn't depend on batteries
 
 ### Bad Stuff:
 - Our LCD had problems starting up
 - The wiring was subpar
 - We had to re-lazer cut because we didn't account for height of photointerrupter
+- It was hard to find the range of the motor, which made PID tuning harder. 
+
 
 
 ### Reflections
-Grant:
 Klei: This project revealed how much good planning affects the project. If I could redo this project, I would plan out the design for a couple more days, just to give clarification. During this project, I learned how to make my time count during class, and this project was a result of that. The best way to save time on this project, is to use materials that are already made. In our case, we found a fan and 3D printed brackets to save time. 
+Grant: This project was a struggle for me, because of how much work I put in the code. Normally, I could get help from the internet, but this project was unique, because it had so many different components. If you were to replicate this project, make sure your coding skills on rotary encoder, lcd, and photoresistor are strong, because you will struggle if you don't know what to do. This project, I learned how to focus on my work better, because this project was the hardest by far for code. Lastly, I know that I can use the coding skills I learned on this project, and use them on projects in the future. 
