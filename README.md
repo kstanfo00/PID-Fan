@@ -48,6 +48,7 @@ This project was a pain on the coding side. We spent 80% of the prok
 - The design turned out cleaner than we thought
 - We used lab materials to save time
 - It doesn't depend on batteries
+- Documentation was superb
 
 ### Bad Stuff:
 - Our LCD had problems starting up
