@@ -32,8 +32,7 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 
 ![87909870](https://github.com/kstanfo00/PID-Fan/assets/112961430/e226106b-e2cb-4cd4-aa6d-210636232c85)<figcaption> bottom view of assembly. </figcaption>
 
-![213443214]
-(https://github.com/kstanfo00/PID-Fan/assets/112961430/df4ca34f-2e3d-41c5-8a2b-62106182cdd2)<figcaption> inside view of assembly. </figcaption>
+![213443214](https://github.com/kstanfo00/PID-Fan/assets/112961430/df4ca34f-2e3d-41c5-8a2b-62106182cdd2)<figcaption> inside view of assembly. </figcaption>
 
 
 ![35345345](https://github.com/kstanfo00/PID-Fan/assets/112961430/d01be622-7d9f-46fa-a6db-65610657df61)<figcaption> inside view of assembly. </figcaption>
