@@ -34,7 +34,7 @@ https://github.com/kstanfo00/PID-Fan/blob/master/media/Video.mov<figcaption> vid
 
 ![87909870](https://github.com/kstanfo00/PID-Fan/blob/master/media/87909870.PNG)<figcaption> bottom view of assembly. </figcaption>
 
-![213443214](https://github.com/kstanfo00/PID-Fan/assets/112961430/df4ca34f-2e3d-41c5-8a2b-62106182cdd2)<figcaption> inside view of assembly. </figcaption>
+![213443214](https://github.com/kstanfo00/PID-Fan/blob/master/media/213443214.PNG)<figcaption> inside view of assembly. </figcaption>
 
 ![45](https://github.com/kstanfo00/PID-Fan/blob/master/media/890.jpg)<figcaption> front view of fan. </figcaption>
 
