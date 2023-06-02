@@ -36,9 +36,6 @@ https://github.com/kstanfo00/PID-Fan/blob/master/media/Video.mov<figcaption> vid
 
 ![213443214](https://github.com/kstanfo00/PID-Fan/assets/112961430/df4ca34f-2e3d-41c5-8a2b-62106182cdd2)<figcaption> inside view of assembly. </figcaption>
 
-
-![35345345](https://github.com/kstanfo00/PID-Fan/assets/112961430/d01be622-7d9f-46fa-a6db-65610657df61)<figcaption> inside view of assembly. </figcaption>
-
 ![45](https://github.com/kstanfo00/PID-Fan/blob/master/media/890.jpg)<figcaption> front view of fan. </figcaption>
 
 ![333](https://github.com/kstanfo00/PID-Fan/blob/master/media/5395D116-62D1-4190-96B7-4FBB44694980.jpeg)<figcaption> bottom view of fan. </figcaption>
@@ -46,6 +43,10 @@ https://github.com/kstanfo00/PID-Fan/blob/master/media/Video.mov<figcaption> vid
 ![3334](https://github.com/kstanfo00/PID-Fan/blob/master/media/678989.jpg)<figcaption> right view of fan. </figcaption>
 
 ![33334](https://github.com/kstanfo00/PID-Fan/blob/master/media/870.jpg)<figcaption> back view of fan. </figcaption>
+
+![232](https://github.com/kstanfo00/PID-Fan/blob/master/media/image0.jpeg)<figcaption> left view of fan. </figcaption>
+
+![2322](https://github.com/kstanfo00/PID-Fan/blob/master/media/image1.jpeg)<figcaption> top view of fan. </figcaption>
 
 ### Time Management
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
