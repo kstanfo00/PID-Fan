@@ -20,11 +20,11 @@
 ### Pictures/Videos
 https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4<figcaption> Planning Prototype </figcaption>
 
-https://github.com/kstanfo00/PID-Fan/assets/112961430/b143dbb9-a9f6-4550-9bc7-01f82239b68f<figcaption> video of fan. </figcaption>
+https://github.com/kstanfo00/PID-Fan/blob/master/media/Video.mov<figcaption> video of fan. </figcaption>
 
 ![67897869678](https://github.com/kstanfo00/PID-Fan/blob/master/media/67897869678.PNG)<figcaption> top view of assembly. </figcaption>
 
-![9890](https://github.com/kstanfo00/PID-Fan/assets/112961430/c36fd586-f476-4377-8d90-b13d823c5132)<figcaption> front view of assembly. </figcaption>
+![9890](https://github.com/kstanfo00/PID-Fan/blob/master/media/9890.PNG)<figcaption> front view of assembly. </figcaption>
 
 ![78690879](https://github.com/kstanfo00/PID-Fan/blob/master/media/78690879.PNG)<figcaption> left view of assembly. </figcaption>
 
