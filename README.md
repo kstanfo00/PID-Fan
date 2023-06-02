@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
 
 ### Post Project Thoughts
-This project was a pain on the coding side. We spent 80% of the project on coding alone. 
+This project was definetly the hardest one we've done, because of the time constraints. It was a pain on the coding side, because we spent 70% of the project on coding alone. The criteria stated that we needed a 6 volt battery to power the project, but we used a 15v plug to power it instead. This is because the fan required more voltage to hit it's RPM. One thing we would do differently next time is make more space for the wires in the fan box. This is because the wires would hit the fan a lot. 
 
 
 ### Good Stuff:
