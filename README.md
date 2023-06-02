@@ -34,7 +34,10 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 
 ![213443214](https://github.com/kstanfo00/PID-Fan/assets/112961430/df4ca34f-2e3d-41c5-8a2b-62106182cdd2)<figcaption> inside view of assembly. </figcaption>
 
+
 ![35345345](https://github.com/kstanfo00/PID-Fan/assets/112961430/d01be622-7d9f-46fa-a6db-65610657df61)<figcaption> inside view of assembly. </figcaption>
+
+ ![unnamed](https://github.com/kstanfo00/PID-Fan/assets/112961430/ec3cac91-a9a5-4b47-b6fa-155ae5ea4076)
 
 
 ### Time Management
