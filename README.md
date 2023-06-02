@@ -18,7 +18,7 @@
 [Onshape Document](https://cvilleschools.onshape.com/documents/092e602ab51989e7e18e86b6/w/c6d02d2cdaf8048d25fb16c3/e/22746867da17f6038a13b326?renderMode=0&uiState=643e9ce2e89fcc7e947cc6ef)
 
 ### Pictures/Videos
-https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4<figcaption>Planning Prototype</figcaption>
+https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4<figcaption> Planning Prototype </figcaption>
 
 ![67897869678](https://github.com/kstanfo00/PID-Fan/assets/112961430/b4f50e1a-34cd-445c-9ca2-7eed0e3d8ef6)<figcaption> top view of assembly. </figcaption>
 
