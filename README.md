@@ -20,6 +20,8 @@
 ### Pictures/Videos
 https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4<figcaption> Planning Prototype </figcaption>
 
+https://github.com/kstanfo00/PID-Fan/assets/112961430/b143dbb9-a9f6-4550-9bc7-01f82239b68f<figcaption> video of fan. </figcaption>
+
 ![67897869678](https://github.com/kstanfo00/PID-Fan/assets/112961430/b4f50e1a-34cd-445c-9ca2-7eed0e3d8ef6)<figcaption> top view of assembly. </figcaption>
 
 ![9890](https://github.com/kstanfo00/PID-Fan/assets/112961430/c36fd586-f476-4377-8d90-b13d823c5132)<figcaption> front view of assembly. </figcaption>
@@ -37,16 +39,18 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 
 ![35345345](https://github.com/kstanfo00/PID-Fan/assets/112961430/d01be622-7d9f-46fa-a6db-65610657df61)<figcaption> inside view of assembly. </figcaption>
 
-![45](https://github.com/kstanfo00/PID-Fan/assets/112961430/5eba9eb5-2706-4b49-8792-db29c3ce5f5c)
-![333](https://github.com/kstanfo00/PID-Fan/assets/112961430/8f9d801f-46ec-40db-9624-0dd7807b2eb7)
+![45](https://github.com/kstanfo00/PID-Fan/assets/112961430/5eba9eb5-2706-4b49-8792-db29c3ce5f5c)<figcaption> back view of fan. </figcaption>
 
-
-https://github.com/kstanfo00/PID-Fan/assets/112961430/b143dbb9-a9f6-4550-9bc7-01f82239b68f
+![333](https://github.com/kstanfo00/PID-Fan/assets/112961430/8f9d801f-46ec-40db-9624-0dd7807b2eb7)<figcaption> bottom view of fan. </figcaption>
 
 ![image1](https://github.com/kstanfo00/PID-Fan/assets/112961430/f9143cea-ec15-4da5-805e-a77b397ea2dd)
+
 ![image0](https://github.com/kstanfo00/PID-Fan/assets/112961430/7fb9bcdb-8904-478b-8379-4d189dcc40e8)
+
 ![5395D116-62D1-4190-96B7-4FBB44694980](https://github.com/kstanfo00/PID-Fan/assets/112961430/e5e5a8a1-7683-4b10-b94a-4faf737e8243)
+
 ![87](https://github.com/kstanfo00/PID-Fan/assets/112961430/b9e30b0c-a90e-4fa9-868c-552847e9926f)
+
 ![54](https://github.com/kstanfo00/PID-Fan/assets/112961430/9cd046dc-8f82-45d1-94a6-834c1573e45c)
 
 
