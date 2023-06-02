@@ -26,26 +26,26 @@ https://github.com/kstanfo00/PID-Fan/assets/112961430/b143dbb9-a9f6-4550-9bc7-01
 
 ![9890](https://github.com/kstanfo00/PID-Fan/assets/112961430/c36fd586-f476-4377-8d90-b13d823c5132)<figcaption> front view of assembly. </figcaption>
 
-![78690879](https://github.com/kstanfo00/PID-Fan/assets/112961430/d59964f7-9abf-48d1-ac80-4b81c06f48c3)<figcaption> left view of assembly. </figcaption>
+![78690879](https://github.com/kstanfo00/PID-Fan/blob/master/media/78690879.PNG)<figcaption> left view of assembly. </figcaption>
 
 ![5467897](https://github.com/kstanfo00/PID-Fan/blob/master/media/5467897.PNG)<figcaption> back view of assembly. </figcaption>
 
 ![34675467](https://github.com/kstanfo00/PID-Fan/blob/master/media/34675467.PNG)<figcaption> right view of assembly. </figcaption>
 
-![87909870](https://github.com/kstanfo00/PID-Fan/assets/112961430/e226106b-e2cb-4cd4-aa6d-210636232c85)<figcaption> bottom view of assembly. </figcaption>
+![87909870](https://github.com/kstanfo00/PID-Fan/blob/master/media/87909870.PNG)<figcaption> bottom view of assembly. </figcaption>
 
 ![213443214](https://github.com/kstanfo00/PID-Fan/assets/112961430/df4ca34f-2e3d-41c5-8a2b-62106182cdd2)<figcaption> inside view of assembly. </figcaption>
 
 
 ![35345345](https://github.com/kstanfo00/PID-Fan/assets/112961430/d01be622-7d9f-46fa-a6db-65610657df61)<figcaption> inside view of assembly. </figcaption>
 
-![45](https://github.com/kstanfo00/PID-Fan/assets/112961430/5eba9eb5-2706-4b49-8792-db29c3ce5f5c)<figcaption> back view of fan. </figcaption>
+![45](https://github.com/kstanfo00/PID-Fan/blob/master/media/890.jpg)<figcaption> front view of fan. </figcaption>
 
 ![333](https://github.com/kstanfo00/PID-Fan/blob/master/media/5395D116-62D1-4190-96B7-4FBB44694980.jpeg)<figcaption> bottom view of fan. </figcaption>
 
-(https://github.com/kstanfo00/PID-Fan/blob/master/media/678989.jpg)<figcaption> right view of fan. </figcaption>
+![3334](https://github.com/kstanfo00/PID-Fan/blob/master/media/678989.jpg)<figcaption> right view of fan. </figcaption>
 
-
+![33334](https://github.com/kstanfo00/PID-Fan/blob/master/media/870.jpg)<figcaption> back view of fan. </figcaption>
 
 ### Time Management
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
