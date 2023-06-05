@@ -66,6 +66,7 @@ This project was definetly the hardest one we've done, because of the time const
 - The wiring was subpar
 - We had to re-lazer cut because we didn't account for height of photointerrupter
 - It was hard to find the range of the motor, which made PID tuning harder. 
+- We accidentally destroyed a 50 dollar metro board because we fed it 15 volts. Make sure to have someone review your wiring when you are working with more voltage than the board can handle.
 
 
 
