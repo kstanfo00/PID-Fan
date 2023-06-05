@@ -9,7 +9,8 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 [Materials Document](https://docs.google.com/document/d/1Y_SMDsQwYU3oLXD34Tc_6X-V50yahsYf0Q7-Y88PeXg/edit)
 
 ### Wiring 
-[Wiring Diagram](https://tinyurl.com/ym2uasvt)
+![Wire](https://github.com/kstanfo00/PID-Fan/assets/112961430/248a3e42-28dd-4751-baec-8e41c0946b3e)
+
 
 ### Code 
 [Code Repository](https://github.com/ggastin30/CPython/blob/master/Engineering%203%20Code/fanPID.py)
