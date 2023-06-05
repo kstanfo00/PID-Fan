@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 [Materials Document](https://docs.google.com/document/d/1Y_SMDsQwYU3oLXD34Tc_6X-V50yahsYf0Q7-Y88PeXg/edit)
 
 ### Wiring 
-![Wire](https://github.com/kstanfo00/PID-Fan/assets/112961430/248a3e42-28dd-4751-baec-8e41c0946b3e)
+![Wire](https://github.com/kstanfo00/PID-Fan/blob/master/media/Wire.PNG)
 
 
 ### Code 
