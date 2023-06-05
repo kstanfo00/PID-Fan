@@ -11,7 +11,7 @@
 ### Code 
 [Code Repository](https://github.com/ggastin30/CPython/blob/master/Engineering%203%20Code/fanPID.py)
 
-![e565465464667](https://github.com/kstanfo00/PID-Fan/assets/112961430/a57b6089-07ee-427d-adf7-bd7af59f61f6)
+![e565465464667](https://github.com/kstanfo00/PID-Fan/assets/112961430/a57b6089-07ee-427d-adf7-bd7af59f61f6)<figcaption> This is a screenshot of our graph of the PID on Mu. The yellow line is the setpoint. The green line is the rpms. You can see that the green line adjusts to the setpoint very well. </figcaption>
 
 
 ### CAD
