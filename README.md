@@ -1,7 +1,8 @@
 ### PID Fan project by Klei and Grant
 
 ### Planning
-[Planning Document](https://docs.google.com/document/d/1oYSg2cFu_qaoOM3yz8rkRRCRVUBYdgV2tjKGM4pbZ4A/edit?usp=sharing)
+[Time Management](https://docs.google.com/document/d/1oYSg2cFu_qaoOM3yz8rkRRCRVUBYdgV2tjKGM4pbZ4A/edit?usp=sharing)
+[Planning Document]https://docs.google.com/document/d/10KXIkI71mnog2hYwAe9qdodhuHy_k5JTP9Cwo6pkJ9I/edit?usp=sharing
 
 https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4<figcaption> Planning Prototype </figcaption>
 
