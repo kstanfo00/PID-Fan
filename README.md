@@ -22,8 +22,6 @@ https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738
 
 ### Pictures/Videos
 
-https://github.com/kstanfo00/PID-Fan/blob/master/media/Video.mov<figcaption> video of fan. </figcaption>
-
 ![67897869678](https://github.com/kstanfo00/PID-Fan/blob/master/media/67897869678.PNG)<figcaption> top view of assembly. </figcaption>
 
 ![9890](https://github.com/kstanfo00/PID-Fan/blob/master/media/9890.PNG)<figcaption> front view of assembly. </figcaption>
