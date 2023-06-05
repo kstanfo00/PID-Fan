@@ -2,6 +2,9 @@
 
 ### Planning
 [Planning Document](https://docs.google.com/document/d/1oYSg2cFu_qaoOM3yz8rkRRCRVUBYdgV2tjKGM4pbZ4A/edit?usp=sharing)
+
+https://user-images.githubusercontent.com/112961430/231779757-706f8b02-47d8-4738-99ec-d17cc00045fa.mp4<figcaption> Planning Prototype </figcaption>
+
 ### Materials
 [Materials Document](https://docs.google.com/document/d/1Y_SMDsQwYU3oLXD34Tc_6X-V50yahsYf0Q7-Y88PeXg/edit)
 
